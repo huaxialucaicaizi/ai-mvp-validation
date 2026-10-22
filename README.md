@@ -420,7 +420,6 @@ A: It follows the Agent Skills format (SKILL.md). Install in Codex with `$skill-
 **华夏路菜菜子 (huaxialucaicaizi)**: former AI product growth lead at major Chinese tech companies, now an AI founder; author of the One-Person Company Toolkit.
 
 - GitHub: [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)
-- Other profiles: TBD
 
 If this skill helps you, a Star ⭐ is appreciated.
 
