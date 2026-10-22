@@ -209,11 +209,9 @@ A：遵循 Agent Skills 规范（SKILL.md），可在 Codex 中用 `$skill-insta
 <a id="zh-author"></a>
 ### 作者
 
-**华夏路菜菜子**：博主，[business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) 作者。
+**华夏路菜菜子**：前大厂 AI 产品增长，现 AI 创业者，「一人公司工具包」作者。
 
 - GitHub：[@huaxialucaicaizi](https://github.com/huaxialucaicaizi)
-- 其他平台主页：待补充
-- 个人介绍：待补充
 
 如果这个 skill 对你有帮助，欢迎点个 Star ⭐
 
@@ -419,11 +417,10 @@ A: It follows the Agent Skills format (SKILL.md). Install in Codex with `$skill-
 <a id="en-author"></a>
 ### Author
 
-**华夏路菜菜子 (huaxialucaicaizi)**: blogger and author of [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill).
+**华夏路菜菜子 (huaxialucaicaizi)**: former AI product growth lead at major Chinese tech companies, now an AI founder; author of the One-Person Company Toolkit.
 
 - GitHub: [@huaxialucaicaizi](https://github.com/huaxialucaicaizi)
 - Other profiles: TBD
-- Bio: TBD
 
 If this skill helps you, a Star ⭐ is appreciated.
 
