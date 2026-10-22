@@ -169,13 +169,13 @@ scripts/validate.py
 
 | 步骤 | 仓库 |
 |---|---|
-| 1. AI 产品 MVP 验证 | 本仓库 |
+| 1. AI 产品 MVP 验证 | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation)（本仓库） |
 | 2. 商业计划书 | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 3. 政策与补贴 | 即将推出 |
-| 4. 路演教练 | 即将推出 |
+| 3. 政策与补贴 | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
+| 4. 路演教练 | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
 | 5. 增长获客 | 即将推出 |
-| 6. 定价与成交 | 即将推出 |
-| 7. 注册与合规 | 即将推出 |
+| 6. 定价与成交 | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
+| 7. 注册与合规 | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
 | 串联大仓库 | 即将推出 |
 
 <a id="zh-faq"></a>
@@ -379,13 +379,13 @@ scripts/validate.py
 
 | Step | Repository |
 |---|---|
-| 1. AI MVP Validation | This repo |
+| 1. AI MVP Validation | [ai-mvp-validation](https://github.com/huaxialucaicaizi/ai-mvp-validation) (this repo) |
 | 2. Business Plan | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 3. Policy & Subsidies | Coming soon |
-| 4. Roadshow Coach | Coming soon |
+| 3. Policy & Subsidies | [opc-policy-navigator](https://github.com/huaxialucaicaizi/opc-policy-navigator) |
+| 4. Roadshow Coach | [ai-pitch-coach](https://github.com/huaxialucaicaizi/ai-pitch-coach) |
 | 5. Growth | Coming soon |
-| 6. Pricing & Closing | Coming soon |
-| 7. Registration & Compliance | Coming soon |
+| 6. Pricing & Closing | [opc-pricing-sales](https://github.com/huaxialucaicaizi/opc-pricing-sales) |
+| 7. Registration & Compliance | [opc-registration-compliance](https://github.com/huaxialucaicaizi/opc-registration-compliance) |
 | Full toolkit repo | Coming soon |
 
 <a id="en-faq"></a>
