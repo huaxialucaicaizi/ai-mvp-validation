@@ -106,9 +106,16 @@ scripts/validate.py
 
 | 步骤 | 仓库 |
 |---|---|
-| 1. AI 产品 MVP 验证 | 本仓库 |
-| 2. 写 BP | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
-| 其余步骤与串联大仓库 | 即将推出 / Coming soon |
+| 1. AI 产品 MVP 验证 / AI MVP Validation | 本仓库 / This repo |
+| 2. 商业计划书 / Business Plan | [business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill) |
+| 3. 政策与补贴 / Policy & Subsidies | 即将推出 / Coming soon |
+| 4. 路演教练 / Roadshow Coach | 即将推出 / Coming soon |
+| 5. 增长获客 / Growth | 即将推出 / Coming soon |
+| 6. 定价与成交 / Pricing & Closing | 即将推出 / Coming soon |
+| 7. 注册与合规 / Registration & Compliance | 即将推出 / Coming soon |
+| 串联大仓库 / Full toolkit repo | 即将推出 / Coming soon |
+
+各步骤上线后将陆续补充链接。/ Links will be added as each step launches.
 
 ## 许可 / License
 
