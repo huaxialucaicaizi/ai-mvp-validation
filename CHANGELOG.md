@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+- README「一人公司工具包」表格：仓库链接改为加粗的中英文名（如 **AI Pitch Coach · 路演教练**），与 ai-startup-skills 合集一致；英文版只用英文名
+- README toolkit tables: repo links now show bold display names, matching the ai-startup-skills bundle
+
 ## [1.0.0] - 2026-10-22
 
 ### Added
