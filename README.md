@@ -73,7 +73,7 @@ Validate demand before you build or write a business plan.
 - 需要把验证过程变成评委、投资人看得懂的证据
 
 **不适合**
-- 已有稳定付费用户、需要做规模化增长的产品（这是之后"增长"步骤的事）
+- 已有稳定付费用户、需要做规模化增长的产品（这是工具包第 5 步的事，见 [**OPC Growth Playbook · 一人公司增长获客**](https://github.com/huaxialucaicaizi/opc-growth-playbook)）
 - 需要法律意见的合规问题（本 skill 只提示风险并给官方原文链接）
 - 想要现成"行业基准数据"的人（本 skill 不提供，阈值请自行设定）
 
@@ -281,7 +281,7 @@ An Agent Skill for **AI tools, AI apps and Agents**: validate your AI product id
 - Need validation evidence that judges and investors can understand
 
 **Not a fit**
-- Products with steady paying users that need to scale (a later "growth" step)
+- Products with steady paying users that need to scale (that is step 5 of the toolkit: see [**OPC Growth Playbook**](https://github.com/huaxialucaicaizi/opc-growth-playbook))
 - Compliance questions that need legal advice (this skill only flags risks and links official sources)
 - Anyone looking for ready-made industry benchmarks (not provided; set your own thresholds)
 
