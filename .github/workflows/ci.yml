@@ -29,6 +29,7 @@ jobs:
           --timeout 20
           --accept 200,204,206,429
           --exclude-mail
+          --exclude 'https://api\.star-history\.com/.*'
           '**/*.md'
         fail: true
       env:
